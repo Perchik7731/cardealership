@@ -66,6 +66,7 @@ _loggerbutton.LogButtonClick();
 
 # Пример использования базы данных
 SQL-запрос
+```
 CREATE TABLE Cars (
     Id INTEGER PRIMARY KEY,
     Brand TEXT NOT NULL,
@@ -75,10 +76,10 @@ CREATE TABLE Cars (
     Discount DECIMAL NOT NULL,
     ManufactureDate TEXT NOT NULL
 );
-
+```
 
 C#-код
-
+```
 using System.Data.SQLite;
 
 private const string ConnectionString = "Data Source=cars.db;Version=3;";
@@ -113,3 +114,4 @@ private void LoadCarsFromDatabase()
 
     CarsListBox.ItemsSource = _cars;
 }
+```
