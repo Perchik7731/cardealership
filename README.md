@@ -59,7 +59,7 @@ using ButtonLogger;
 
 // Запись информационного сообщения
 _loggerbutton.LogButtonClick();
-////////////////////////////
+![Alt text](loggs.jpg)
 
 # Пример использования базы данных
 SQL-запрос
