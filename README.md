@@ -9,7 +9,7 @@
 5. Модульная архитектура (DLL)
 # Функциональность
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/func.png?raw=true)
+![Alt text](relative/path/to/func.jpg)
 
 Основные функции:
 * Просмотр списка автомобилей в наличии и не в наличии.
